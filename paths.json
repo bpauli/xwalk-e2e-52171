@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/xwalk-e2e-52171/:/",
+    "/content/launches/:/launches/"
+  ],
+  "includes": [
+    "/content/xwalk-e2e-52171/",
+    "/content/launches/"
+  ]
+}
